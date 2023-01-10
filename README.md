@@ -1,5 +1,5 @@
 ### Olá! Eu sou o Gustavo!
-- Trabalho como desenvolvedor frontend web e mobile. Sou apaixonado por todo tipo de front-end e minhas principais linguagens são HTML, CSS, JS, ReactJs, Flutter, entre outras. 😊😊
+- Trabalho como desenvolvedor Full Stack. Sou apaixonado pelo mundo da programação e minhas principais linguagens são HTML, CSS, JS, React.Js, Node.Js, PHP, Flutter, entre outras. 😊😊
 
 
  <a href="https://www.linkedin.com/in/gustavo-rezende-2709/"  target="_blank" >
